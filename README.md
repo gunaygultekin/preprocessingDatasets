@@ -1,2 +1,2 @@
 # preprocessingDatasets
-Preprocessing Gowalla, Brightkite Datasets
+Preprocessing for Gowalla, Brightkite Datasets
